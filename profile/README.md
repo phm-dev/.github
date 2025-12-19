@@ -1,8 +1,8 @@
-# phm‑dev – PHP Manager dla macOS  
-phm‑dev tworzy narzędzia ułatwiające zarządzanie środowiskami PHP na macOS. Naszym flagowym projektem jest **PHM – PHP Manager for macOS**, które umożliwa instalację, aktualizację i zarządzanie różnymi wersjami PHP oraz rozszerzeń. Wraz z repozytorium **php‑packages**, udostępniającym gotowe binarne paczki PHP i rozszerzenia dla macOS, tworzymy kompletny ekosystem dla deweloperów oraz administratorów korzystających z PHP na macOS.  
+# phm-dev  
+This GitHub organization simply hosts personal projects related to managing PHP on macOS. It's not a company, just a place to organize code.  
 
-## Projekty  
-- **PHM (PHP Manager for macOS)** – narzędzie CLI pozwalające wygodnie instalować, przełączać i konfigurować wersje PHP, zarządzać PHP‑FPM oraz integrować się z systemem poprzez launchd.  
-- **php‑packages** – zbór prekompilowanych paczek PHP i rozszerzeń dla macOS, zaprojektowanych do współpracy z PHM, umożliwiających szybkie uruchomienie środowiska bez konieczności kompilacji.  
+## Projects  
+- **PHM (PHP Manager for macOS)** – a CLI tool that makes it easy to install, switch and configure PHP versions on macOS and manage PHP‑FPM.  
+- **php-packages** – a set of pre-built PHP binaries and extensions for macOS designed to be used with PHM, so you don't need to compile anything yourself.  
 
-Zapraszamy do śledzenia projektów, zgłaszania uwag i kontrybucji! 
+Feel free to use the tools or contribute if you find them useful! 
